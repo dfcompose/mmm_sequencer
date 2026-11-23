@@ -1,5 +1,5 @@
 from mmm_python import *
-from user.Pbind import *
+from Pbind import *
 
 mmm_audio_instance = MMMAudio(
     256 * 8, num_output_channels=2, graph_name="Sequencer", package_name="user"
