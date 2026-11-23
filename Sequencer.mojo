@@ -1,5 +1,5 @@
 from mmm_audio import *
-from user.seq import *
+from seq import *
 from EightOhEight import *
 
 
