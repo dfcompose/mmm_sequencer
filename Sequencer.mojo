@@ -1,6 +1,6 @@
 from mmm_audio import *
 from user.seq import *
-from user.synths.EightOhEight import *
+from EightOhEight import *
 
 
 
